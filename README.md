@@ -1,6 +1,8 @@
 # passing-args-c
 Passing Arguments to Functions in C
 
+Technologies Utilized: Oracle NetBeans IDE 8.2, C
+
 Description: This is a simple project written in C language that demonstrates how we can pass arguments to a function using different methods such as Call by Value and Call by Reference.
 
 If a function takes any arguments, we must declare variables that accept the values we want to pass as arguments. These variables are called the formal parameters of the function.
